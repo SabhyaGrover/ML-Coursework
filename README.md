@@ -1,2 +1,2 @@
-# Data-Science-UCS655
-Coursework and Assignments for AI applications under Data Science as a major.
+# Assignments under Machine Learning + Data-Science
+Solutions for Data Science and Machine Learning Course
